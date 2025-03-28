@@ -1,2 +1,3 @@
 # wii-clib
-cLIB files for wii
+cLIB Files for Wii
+cLIB stands for (custom Library)
