@@ -2,7 +2,7 @@
 cLIB Files for Wii
 
 # WARNING!
-I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPEND TO YOUR WII CONSOLE.
+I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS TO YOUR WII CONSOLE.
 
 # Guide
 After Downloading the files, please put them into your SD Card.
